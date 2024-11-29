@@ -1,2 +1,2 @@
 # smartFactory
-cat.
+cat
